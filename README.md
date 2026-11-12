@@ -11,6 +11,7 @@ An end-to-end retail data analysis project exploring customer behavior and sales
 The project aims to analyze the shopping behavior dataset to identify sales performance, customer behavior, and analyze product performance, providing direction for business planning.
 
 ### 2. Overview Dashboard
+![image alt](https://github.com/seviolin/Retail-Customer-Behavior/blob/main/SuperstoreSales_DB.png)
 To access the dashboard, [click here.](https://public.tableau.com/views/DB_SuperstoreSales/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 ### 3. Dataset
